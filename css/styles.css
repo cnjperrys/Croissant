@@ -1,6 +1,30 @@
+
+.container {
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+body {
+    text-align: center;
+     background: rgb(55, 47, 77);
+     color:blanchedalmond;
+}
+
 h1 {
     text-align: center;
     font-size: 24px;
     color:blanchedalmond;
     background: rgb(55, 47, 77);
+}
+
+a {
+    color:blanchedalmond;
+    font-size: 16px;
+}
+.primary-pic {
+    display: block;
+    max-width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 20px;
 }
