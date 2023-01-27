@@ -1,12 +1,15 @@
 
 .container {
-    max-width: 600px;
+    max-width: 700px;
     border-radius: 10px;
+    background:rgb(55,47,77);
+    padding: 20px;
+    margin: 20px auto;
 }
 
 body {
     text-align: center;
-     background: rgb(55, 47, 77);
+     background: rgb(23, 23, 45);
      color:blanchedalmond;
 }
 
